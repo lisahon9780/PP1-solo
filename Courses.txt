@@ -1,0 +1,5 @@
+1336,COSC,301,Programming Fundamenals,Betts,MW,9,20,10,10
+2413,MATH,101,Calculus,White,TTH,10,15,10,5
+2325,PHYS,201,University Physics,Brown,MWF,11,25,11,14
+1305,BCIS,224,Business Computer Applications,Watts,TTH,8,24,10,14
+1309,ITSC,202,Integrated Software Applications,Watts,F,12,16,4,12
